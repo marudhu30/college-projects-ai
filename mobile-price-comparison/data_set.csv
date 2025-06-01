@@ -1,0 +1,85 @@
+Brand,Model,Price Range (INR),Exact Approx. Price (INR),Base Variant,RAM (GB),Internal Storage (GB),Primary Rear Camera (MP),Battery (mAh),Charging Speed (W),Best For
+Redmi,Redmi 14,10000 - 20000,12999,"6GB RAM, 128GB ROM",6,128,50,5000,18,"Budget-conscious, Good display"
+Realme,Realme C65,10000 - 20000,11999,"4GB RAM, 64GB ROM",4,64,50,5000,15,"Stylish design, Essential features"
+Samsung,Galaxy M15 5G,10000 - 20000,14499,"4GB RAM, 128GB ROM",4,128,50,6000,25,"Long battery life, Reliable brand"
+Oppo,Oppo A2m 5G,10000 - 20000,13990,"6GB RAM, 128GB ROM",6,128,50,5000,33,"Decent camera, Sleek look"
+Vivo,Vivo Y18e,10000 - 20000,11499,"4GB RAM, 64GB ROM",4,64,13,5000,15,Basic tasks and media
+Moto,Moto G Power (2025),10000 - 20000,15999,"6GB RAM, 128GB ROM",6,128,50,6000,15,"Excellent battery life, Clean Android"
+Realme,Realme Narzo 70i,10000 - 20000,10999,"4GB RAM, 64GB ROM",4,64,13,5000,10,"Entry-level, Reliable performance"
+Samsung,Galaxy A06,10000 - 20000,10499,"4GB RAM, 64GB ROM",4,64,13,5000,15,Basic smartphone usage
+Vivo,Vivo Y03,10000 - 20000,9999,"4GB RAM, 64GB ROM",4,64,13,5000,10,Affordable Vivo option
+Oppo,Oppo A1X,10000 - 20000,12490,"4GB RAM, 128GB ROM",4,128,50,5000,10,Stylish entry-level phone
+Redmi,Redmi Note 13 Pro 5G,20001 - 30000,24999,"8GB RAM, 128GB ROM",8,128,200,5000,67,"High-res camera, Good performance"
+Realme,Realme 12 Pro 5G,20001 - 30000,25999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,67,"Versatile camera, Stylish design"
+Samsung,Galaxy A16 5G,20001 - 30000,21999,"6GB RAM, 128GB ROM",6,128,50,5000,25,Improved features over M series
+Oppo,Oppo A3 Pro 5G,20001 - 30000,22990,"8GB RAM, 128GB ROM",8,128,64 (OIS),5000,67,"Enhanced durability, Good camera"
+Vivo,Vivo Y200 5G,20001 - 30000,23999,"8GB RAM, 128GB ROM",8,128,64 (OIS),4800,44,Better performance and camera
+OnePlus,Nord N30 SE,20001 - 30000,26999,"8GB RAM, 128GB ROM",8,128,64,5000,33,"Smooth experience, Fast charging"
+Moto,Moto G84 5G,20001 - 30000,28999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,30,"Lightweight, Good display, Clean Android"
+iQOO,iQOO Z9 5G,20001 - 30000,29990,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,44,"Gaming-focused, Fast charging"
+Redmi,Redmi Note 13 5G,20001 - 30000,21999,"8GB RAM, 256GB ROM",8,256,108,5000,33,Good balance of features and price
+Realme,Realme 11 Pro 5G,20001 - 30000,23999,"8GB RAM, 128GB ROM",8,128,100 (OIS),5000,67,"Camera-centric, Premium design"
+Samsung,Galaxy A25 5G,20001 - 30000,26999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,25,"Good display, Reliable performance"
+Oppo,Oppo F27 Pro+ 5G,20001 - 30000,27990,"8GB RAM, 128GB ROM",8,128,64 (OIS),5000,67,"Premium design, Fast charging"
+Vivo,Vivo T3 5G,20001 - 30000,22999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,44,"Good performance, Affordable 5G"
+OnePlus,Nord CE3 Lite 5G (If avail.),20001 - 30000,20999,"8GB RAM, 128GB ROM",8,128,108,5000,67,"Large battery, Fast charging"
+Moto,Moto G73 5G (If avail.),20001 - 30000,21999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,30,"Clean Android, Good performance"
+iQOO,iQOO Z7 Pro 5G (If avail.),20001 - 30000,23990,"8GB RAM, 128GB ROM",8,128,64 (OIS),4600,66,"Stylish design, Good performance"
+Redmi,Redmi Note 12 Pro+ 5G (If avail.),20001 - 30000,25999,"8GB RAM, 256GB ROM",8,256,200,5000,120,"Super-fast charging, High-res camera"
+Realme,Realme 10 Pro+ 5G (If avail.),20001 - 30000,22999,"6GB RAM, 128GB ROM",6,128,108,5000,67,"Curved display, Stylish design"
+Samsung,Galaxy M34 5G (If avail.),20001 - 30000,20999,"6GB RAM, 128GB ROM",6,128,50,6000,25,"Large battery, Good display"
+Oppo,Oppo F25 Pro 5G (If avail.),20001 - 30000,23990,"8GB RAM, 128GB ROM",8,128,64,5000,67,"Sleek design, Good camera"
+Vivo,Vivo V27e 5G (If avail.),20001 - 30000,21999,"8GB RAM, 128GB ROM",8,128,64 (OIS),4600,44,"Stylish design, Good camera"
+Redmi,Xiaomi 14i,30001 - 40000,34999,"8GB RAM, 256GB ROM",8,256,200,5000,67,"High-end photography, Performance"
+Realme,Realme GT Neo 6 SE,30001 - 40000,31999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5500,100,"High-performance chipset, Fast charging"
+Samsung,Galaxy A36 5G,30001 - 40000,33999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,25,"Premium feel, Good all-around"
+Oppo,Reno 11F 5G,30001 - 40000,32990,"8GB RAM, 256GB ROM",8,256,64 (OIS),4800,67,Focus on camera and sleek design
+Vivo,Vivo V29e 5G,30001 - 40000,35999,"8GB RAM, 128GB ROM",8,128,64 (OIS),4800,44,"Stylish, Good for portraits"
+OnePlus,Nord CE4 5G,30001 - 40000,30999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,100,Improved camera and performance
+Moto,Motorola Edge 40 Neo,30001 - 40000,37999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,68,"Slim design, Great display, Good perf."
+iQOO,iQOO Neo 9 Pro (Lower),30001 - 40000,36990,"8GB RAM, 128GB ROM",8,128,50 (OIS),5160,120,Gaming and performance-focused
+Samsung,Galaxy M55 5G,30001 - 40000,39999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,25,"Large display, Versatile camera"
+Realme,Realme GT Master Edition,30001 - 40000,32999,"8GB RAM, 128GB ROM",8,128,64,4300,65,"Stylish design, Good performance"
+Redmi,Redmi K60 (If released),30001 - 40000,35999,"8GB RAM, 128GB ROM",8,128,64 (OIS),5500,67,"Performance-oriented, Good display"
+Realme,Realme 12+ 5G (If released),30001 - 40000,31999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,67,"Balanced features, Good value"
+Samsung,Galaxy F55 (If released),30001 - 40000,31999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,25,"Stylish design, Good camera"
+Redmi,Xiaomi 13T Pro,40001 - 50000,49999,"12GB RAM, 256GB ROM",12,256,50 (OIS),5000,120,"Pro photography, High performance"
+Realme,Realme GT 6T,40001 - 50000,42999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5500,100,"High performance, Gaming"
+Samsung,Galaxy A55 5G,40001 - 50000,45999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,25,"Premium build, Excellent display"
+Oppo,Reno 12 Pro 5G,40001 - 50000,45990,"12GB RAM, 256GB ROM",12,256,50 (OIS),4800,80,"Advanced camera features, Premium design"
+Vivo,V30 Pro 5G,40001 - 50000,47999,"8GB RAM, 128GB ROM",8,128,50 (OIS),4600,80,"Enhanced camera, Stylish design"
+OnePlus,OnePlus 12R,40001 - 50000,40999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5500,100,"Smooth performance, Fast charging"
+Moto,Motorola Edge 50 Fusion,40001 - 50000,42999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5000,68,Good balance of features
+iQOO,iQOO Neo 9 Pro,40001 - 50000,44990,"8GB RAM, 256GB ROM",8,256,50 (OIS),5160,120,High-end gaming and performance
+Samsung,Galaxy S21 FE 5G,40001 - 50000,42999,"8GB RAM, 128GB ROM",8,128,12 + 12 + 8,4500,25,Flagship features at a lower price
+Nothing,Nothing Phone (2) (Price Drop),40001 - 50000,44999,"8GB RAM, 128GB ROM",8,128,50 + 50,4700,45,"Unique design, Good performance"
+Redmi,Xiaomi 14,50001 - 60000,54999,"8GB RAM, 256GB ROM",8,256,50 (OIS),4610,67,"Compact flagship, Excellent camera/perf."
+Samsung,Galaxy S23 FE,50001 - 60000,52999,"8GB RAM, 128GB ROM",8,128,50 (OIS),4500,25,Flagship experience at a lower price
+Oppo,Find X7 (Lower Variant),50001 - 60000,51990,"12GB RAM, 256GB ROM",12,256,50 (OIS),5000,100,"Innovative features, High performance"
+Vivo,X100 (Base Variant),50001 - 60000,56999,"12GB RAM, 256GB ROM",12,256,50 (OIS),5000,120,Exceptional camera system
+OnePlus,12R,50001 - 60000,50999,"8GB RAM, 128GB ROM",8,128,50 (OIS),5500,100,"Flagship-level performance, Great battery"
+Apple,iPhone SE (4th Gen),50001 - 60000,59900,"- RAM, 128GB ROM",-,128,12,-,20,"Apple ecosystem, Compact and powerful"
+iQOO,iQOO 12 (Lower Variant),50001 - 60000,52990,"8GB RAM, 256GB ROM",8,256,50 (OIS),5000,120,"Flagship performance, Gaming"
+Samsung,Galaxy S22+ (Price Drop),50001 - 60000,55999,"8GB RAM, 128GB ROM",8,128,50 (OIS),4500,45,"Previous flagship, Good all-rounder"
+Moto,Motorola Edge 40 Pro (Price Drop),50001 - 60000,54999,"8GB RAM, 128GB ROM",8,128,50 (OIS),4600,125,"Near-flagship performance, Great display"
+Nothing,Nothing Phone (2) (Higher),50001 - 60000,51999,"12GB RAM, 256GB ROM",12,256,50 + 50,4700,45,"Unique design, Enhanced performance"
+Redmi,Xiaomi 14 Pro,60001 - 70000,64999,"12GB RAM, 256GB ROM",12,256,50 (OIS),4880,120,"Ultimate performance, Pro camera"
+Samsung,Galaxy S24,60001 - 70000,67999,"8GB RAM, 128GB ROM",8,128,50 (OIS),4000,25,Latest flagship technology
+Oppo,Find X7 (Higher Storage),60001 - 70000,62990,"16GB RAM, 512GB ROM",16,512,50 (OIS),5000,100,Premium features and performance
+Vivo,X100 Pro (Base Variant),60001 - 70000,63999,"12GB RAM, 256GB ROM",12,256,50 (OIS),5400,100,Professional-grade camera
+OnePlus,12 (Base Variant),60001 - 70000,62999,"12GB RAM, 256GB ROM",12,256,50 (OIS),5400,100,"Latest flagship, Fast charging"
+Apple,iPhone 15 (Base Variant),60001 - 70000,69900,"- RAM, 128GB ROM",-,128,48,-,20,"Latest iPhone, Improved features"
+iQOO,iQOO 12 Pro (Lower Variant),60001 - 70000,64990,"12GB RAM, 256GB ROM",12,256,50 (OIS),5000,120,Ultimate gaming and performance
+Samsung,Galaxy Z Flip 5,60001 - 70000,69999,"8GB RAM, 256GB ROM",8,256,12 + 12,3700,25,"Foldable, Stylish"
+Moto,Motorola Edge 50 Pro,60001 - 70000,66999,"8GB RAM, 256GB ROM",8,256,50 (OIS),4500,125,"Premium design, Excellent camera"
+Nothing,Nothing Phone (3) (Assump.),60001 - 70000,67999,"8GB RAM, 128GB ROM",8,128,50 + 50,5000,65,"Next-gen unique design, High performance"
+Redmi,Xiaomi 15 (Assumption),70001 - 80000,74999,"8GB RAM, 256GB ROM",8,256,50 (OIS),5000,120,Next-gen flagship
+Samsung,Galaxy S24+,70001 - 80000,77999,"8GB RAM, 256GB ROM",8,256,50 (OIS),4700,45,Larger screen flagship
+Oppo,Find X7 Ultra (Lower Var.),70001 - 80000,71990,"12GB RAM, 256GB ROM",12,256,50 (OIS),5000,100,Cutting-edge camera system
+Vivo,X100 Pro+ (Assumption),70001 - 80000,71999,"12GB RAM, 256GB ROM",12,256,50 (OIS),5500,120,Ultimate mobile photography
+OnePlus,13 (Assumption),70001 - 80000,72999,"8GB RAM, 256GB ROM",8,256,50 (OIS),5000,100,Next-gen flagship performance
+Apple,iPhone 15 Pro (Base Var.),70001 - 80000,79900,"- RAM, 128GB ROM",-,128,48,-,27,Pro-level camera and performance
+Samsung,Galaxy S23 Ultra,70001 - 80000,76999,"8GB RAM, 256GB ROM",8,256,200 (OIS),5000,45,"Ultimate camera, S Pen, Top performance"
+iQOO,iQOO 13 Pro (Assumption),70001 - 80000,75990,"12GB RAM, 256GB ROM",12,256,50 (OIS),5000,120,Top-tier gaming and performance
+Oppo,Find N3 Flip (Assumption),70001 - 80000,79999,"8GB RAM, 256GB ROM",8,256,50 (OIS),4300,67,"Foldable, Premium design"
+Vivo,X Fold 3 (Assumption),70001 - 80000,77999,"12GB RAM, 256GB ROM",12,2,,,,
