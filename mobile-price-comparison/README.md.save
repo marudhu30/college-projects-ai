@@ -1,0 +1,24 @@
+# 📊 Mobile Price Comparison
+
+A data analysis project focused on comparing mobile phones based on price and features. This was developed as part of my college AI coursework.
+
+---
+
+## 🧠 Objective
+
+To explore mobile dataset and visualize how different features (brand, RAM, battery, etc.) influence pricing using plots and graphs.
+
+---
+
+## 🛠 Tech Stack
+
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+
+---
+
+## 📁 Folder Structure
+
+x

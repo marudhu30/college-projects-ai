@@ -1,25 +1,39 @@
-# 📊 Mobile Price Comparison (Python )
+<h1 align="center">📱 Mobile Price Comparison</h1>
 
-This project explores a dataset of mobile phones to compare features and pricing using Python's data tools.
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Python-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Libraries-pandas%2C%20seaborn%2C%20matplotlib-blue?style=for-the-badge" />
+</p>
 
-## 🔧 Tools Used
-- **Pandas** for data manipulation
-- **Matplotlib** and **Seaborn** for visualization
+---
 
-## 📌 Learning Objective
-To apply AI-focused data handling and visualization tools to find patterns in pricing, storage, battery, and other features.
+## 🔍 Overview
 
-## 🔍 Key Insights
-- Trend between price and features
-- Heatmap of correlations
-- Best value mobiles based on visual analysis
+An AI-driven data analysis project to visualize and compare mobile phone pricing trends across various brands and specifications.
 
-## 🧠 AI Context
-This project uses foundational tools from the AI and Data Science pipeline: real-world datasets, data cleaning, and exploratory analysis.
+Built using Python and popular libraries like **Pandas**, **Matplotlib**, and **Seaborn**.
 
-> Completed as part of my academic learning on applying AI techniques to practical datasets.
+---
 
-## ▶ How to Run
-1. Open `mobile_price_analysis.ipynb` in Jupyter or Google Colab
-2. Run all cells
+## 🎯 Goals
 
+- Clean and analyze a real-world mobile dataset  
+- Identify price variations across features  
+- Create visual stories using charts and graphs  
+
+---
+
+## 📂 Files Included
+
+| File | Description |
+|------|-------------|
+| `mobile_price_comparison.py` | Core script for analysis |
+| `data.csv` | Dataset used |
+
+---
+
+## ⚙️ How to Run
+
+```bash
+pip install pandas matplotlib seaborn
+python mobile-price-analysis.py

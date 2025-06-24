@@ -1,16 +1,25 @@
-# 🌊 Flood Fill Algorithm Simulation (C)
+<h1 align="center">🌊 Flood Fill Simulation</h1>
 
-This project simulates the flood fill algorithm in C — a method used to determine and fill connected regions in graphics.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Type-Simulation-green?style=for-the-badge" />
+</p>
 
-## 🧠 Why this project?
-Flood fill is commonly used in image processing (e.g., the paint bucket tool). I built this simulation to practice problem-solving and understand how algorithmic techniques are implemented in lower-level languages.
+---
 
-## 📁 Files
-- `flood_fill_simulation.c`: Contains the full C implementation
+## 🧠 About the Project
 
-## ▶ How to Run
-Compile and run using a C compiler:
+This C program demonstrates the **Flood Fill algorithm**, a recursive technique used to "fill" connected areas in a matrix — like how paint tools fill bounded regions.
+
+<br/>
+
+### 🎯 Objective
+Fill an enclosed region in a 2D grid starting from a specific coordinate.
+
+---
+
+## 🔧 How to Run
+
 ```bash
-gcc flood_fill.c -o flood_fill
+gcc flood-fill-simulation.c -o flood_fill
 ./flood_fill
-
